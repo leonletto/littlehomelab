@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: Leon's homepage
+description: Bookmark this to keep an eye on my project updates!
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
